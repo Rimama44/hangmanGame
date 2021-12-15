@@ -1,0 +1,13 @@
+.buttoncss {
+    background-color: #465252;
+    color: white;
+    padding: 1rem 2.5rem;
+    border-radius: 10px;
+    position: relative;
+    overflow: hidden;
+    font-weight: 600;
+}
+
+.buttoncss:hover {
+    background-color: #7ec5c5;
+}
